@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/vivianle/Documents/Computer Science/CS211 - Data Structure/FinalProject/externalLibs/jaco-mp3-player-0.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/vivianle/Documents/Computer Science/CS211 - Data Structure/FinalProject/externalLibs/mp3agic-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vivianle/Documents/Computer Science/CS211 - Data Structure/FinalProject/externalLibs/tika-app-1.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
